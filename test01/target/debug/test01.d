@@ -1,1 +1,0 @@
-C:\Users\Yo\rust\test01\target\debug\test01.exe: C:\Users\Yo\rust\test01\src\lib.rs C:\Users\Yo\rust\test01\src\foo\bar/mod.rs C:\Users\Yo\rust\test01\src\foo/mod.rs C:\Users\Yo\rust\test01\src\main.rs
